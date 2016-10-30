@@ -1,0 +1,2 @@
+# InfectedHospital
+ Monte Carlo simulator
